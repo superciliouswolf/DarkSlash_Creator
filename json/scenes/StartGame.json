@@ -2724,7 +2724,7 @@
 											"w": 1360,
 											"h": 720
 										},
-										"enabled": false,
+										"enabled": true,
 										"name": "mask",
 										"anchorPoint": {
 											"x": 0.5,
